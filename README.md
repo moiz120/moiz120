@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Abdul Moiz Ali 👋
 
-<!--
-**moiz120/moiz120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI student at Air University, Islamabad — building real-time computer vision systems, NLP pipelines, and full-stack AI applications.
 
-Here are some ideas to get you started:
+- 🎓 BS Artificial Intelligence @ Air University Islamabad (2023 – Present)
+- 🔭 Currently building an **AI-Powered CSS Learning Platform** for my Final Year Project
+- 🧠 Interested in computer vision, NLP, and applied ML systems
+- 📈 Also into KSE-100 intraday trading on the side
+- 📫 Reach me at abdulmueezali@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I've been building
+
+- **Real-Time Multi-Person Detection & Tracking** — YOLOv8 + ByteTrack, with a Streamlit dashboard and FastAPI REST layer
+- **AI-Powered CSS Learning Platform** — LLM-based rubric grading, FPSC frequency analysis, current affairs filtering
+- **Healthcare NLP Pipeline** — semantic search + RAG with sentence-transformers, FAISS, and Flan-T5
+- **Industrial Motor Control System** — PIC18F4520, PWM/PID control, embedded C
+
+### 🛠️ Tech I work with
+
+**Languages:** Python, C++, JavaScript, SQL
+**AI/ML:** PyTorch, Scikit-learn, YOLOv8, OpenCV, Hugging Face Transformers, spaCy, FAISS
+**Web:** React.js, FastAPI, Streamlit
+**Embedded:** PIC16F877A, PIC18F4520, MPLAB X, Proteus
+
+---
+
+⭐️ Feel free to check out my pinned repos below.
