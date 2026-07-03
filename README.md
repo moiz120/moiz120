@@ -5,7 +5,6 @@ AI student at Air University, Islamabad — building real-time computer vision s
 - 🎓 BS Artificial Intelligence @ Air University Islamabad (2023 – Present)
 - 🔭 Currently building an **AI-Powered CSS Learning Platform** for my Final Year Project
 - 🧠 Interested in computer vision, NLP, and applied ML systems
-- 📈 Also into KSE-100 intraday trading on the side
 - 📫 Reach me at abdulmueezali@gmail.com
 
 ---
